@@ -1,3 +1,4 @@
+#CODE TO RENAME A WRONGLY NAMED FILE BASED ON ITS TYPE
 #!/usr/bin/bash
 #mm22b018
 filename=$1
